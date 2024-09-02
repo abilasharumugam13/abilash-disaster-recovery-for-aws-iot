@@ -1,6 +1,6 @@
-# Deprecation Notice
+# Deprecation Notice-Abilash A
 
-This AWS Solution has been archived and is no longer maintained by AWS. To discover other solutions, please visit the [AWS Solutions Library](https://aws.amazon.com/solutions/).
+This AWS Solution has been archived and is no longer maintained by AWS.
 
 # Disaster Recovery for AWS IoT
 
